@@ -1,5 +1,5 @@
 motion:
-  image: adthan/rpi-motion
+  image: adilsonthanus/rpi-motion
   volumes:
    - /dev/video0:/dev/video0
   ports:
